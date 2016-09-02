@@ -11,4 +11,4 @@ You can record your voice and add 4 effects:
   
 [udacity]: <https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585>
 
-(https://github.com/AndreyAzimov/Voice-Efffects-App/blob/master/record-controller-recording.png)
+![alt text](https://github.com/AndreyAzimov/Voice-Efffects-App/blob/master/record-controller-recording.png "Logo Title Text 1")
