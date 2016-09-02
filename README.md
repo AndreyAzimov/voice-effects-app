@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/AndreyAzimov/Voice-Efffects-App/blob/master/record-controller.png "")
 ![alt text](https://github.com/AndreyAzimov/Voice-Efffects-App/blob/master/record-controller-recording.png "")
-![alt text](https://github.com/AndreyAzimov/Voice-Efffects-App/blob/master/effects.png=290x516 "")
+![alt text](https://github.com/AndreyAzimov/Voice-Efffects-App/blob/master/effects.png =290x516 "")
 
 
 
