@@ -5,7 +5,7 @@
 ![](https://github.com/AndreyAzimov/Voice-Effects-App/blob/master/effects-screen.png)
 
 ---
-## Describtion
+## Descrioption
 
 In scope of Udacity course [Intro to iOS App Development with Swift][udacity] I build my first iOS App on Swift language.
 
