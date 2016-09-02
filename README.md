@@ -2,7 +2,8 @@
 
 ![alt text](https://github.com/AndreyAzimov/Voice-Efffects-App/blob/master/record-controller.png "")
 ![alt text](https://github.com/AndreyAzimov/Voice-Efffects-App/blob/master/record-controller-recording.png "")
-![alt text](https://github.com/AndreyAzimov/Voice-Efffects-App/blob/master/effects.png "")
+![alt text](https://github.com/AndreyAzimov/Voice-Efffects-App/blob/master/effects.png=290x516 "")
+
 
 
 In scope of Udacity course [Intro to iOS App Development with Swift][udacity] I build my first iOS App on Swift language.
